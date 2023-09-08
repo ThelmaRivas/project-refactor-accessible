@@ -16,6 +16,9 @@ N/A
 You can see HTML file and CSS file inside assets folder and find semantic HTML elements, all the divs where replace with <header>, <section>, <nav>, <footer>, and other semantic elements, also verify that the HTML now counts with accessible standards such as the alt attribute on the images located in the <main> and <aside>.
 On the CSS you can see the styling being applied to the now structured HTML with some comments along the file, also we reduce the lines of code to make a more efficient/optimize code. 
 
+link to GitHub Pages --> https://thelmarivas.github.io/project-refactor-accessible/
+
+![alt text](assets/images/app-deployment.png) 
 
 ## Credits
 
